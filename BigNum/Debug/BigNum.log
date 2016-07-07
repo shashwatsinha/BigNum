@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\source.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\source.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\source.cpp(225): warning C4101: 'num': unreferenced local variable
+  HugeNum.cpp
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\hugenum.cpp(3): warning C4005: 'OVERFLOW': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(954): note: see previous definition of 'OVERFLOW'
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\hugenum.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\hugenum.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\shashwatsinha\desktop\github\aitest\bignum\bignum\hugenum.cpp(145): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  BigNum.vcxproj -> C:\Users\shashwatsinha\Desktop\GitHub\AITest\BigNum\Debug\BigNum.exe
+  BigNum.vcxproj -> C:\Users\shashwatsinha\Desktop\GitHub\AITest\BigNum\Debug\BigNum.pdb (Partial PDB)
